@@ -1,0 +1,23 @@
+*** WooCommerce Advanced Peach Payments Gateway Changelog ***
+2015.06.17 - upgrade the new version
+2015.11.17 - version 1.0.10
+ * Fixed the Virtual Subscription with a Free trial bug.
+ * Fixed the process_post_status() function from calling the get_token_status function twice.
+
+2015.10.14 - version 1.0.8
+ * Add WC_Addons_Gateway_Simplify_Commerce_Deprecated 
+ * Support admin payment method changes
+ * Update renewal payments for Subs v2.0
+ * Remove meta from resubscribe orders
+ * Update order_contains_subscription()
+ * Update change failling payment method
+ * Add support for multiple subscriptions
+ 
+2014.06.27 - version 1.0.1
+ * Fix - Adds the plugin name to the plugin header data.
+
+2014.06.26 - version 1.0.0
+ * First Release
+
+ 2017.11.26 - version 1.1.1
+ * upgrade the new version
